@@ -6,6 +6,7 @@ focusing on Physical AI, simulation, and robot learning.
 ## Learning Path
 - Robotics Foundations (USD, Physical AI)
 - Isaac Sim (Simulation & Synthetic Data)
+  - [Chapter 01: Building Your First Robot](./02_isaac_sim/01_building_your_first_robot/)
 - Isaac Lab (Robot Learning & RL)
 - Isaac ROS (ROS2 & Deployment)
 
@@ -13,3 +14,4 @@ focusing on Physical AI, simulation, and robot learning.
 - Build simulation-to-learning pipelines
 - Train robots using reinforcement learning
 - Create a research-ready robotics portfolio
+
