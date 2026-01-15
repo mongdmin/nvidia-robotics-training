@@ -1,4 +1,4 @@
-# 03. Isaac Sim — Chapter 02: Ingesting Robot Assets and Simulating Your Robot in Isaac Sim
+# 02. Isaac Sim — Chapter 02: Ingesting Robot Assets and Simulating Your Robot in Isaac Sim
 
 This chapter documents my workflow for importing a real robot asset (URDF), preparing a simulation stage, adding perception sensors, and exploring a fully preconfigured robot asset (Nova Carter) in NVIDIA Isaac Sim.
 I started with the URDF-based Carter robot, validated physics and articulation behavior, implemented differential drive control, mounted an RGB camera and PhysX LiDAR, and finally compared it with Nova Carter, which comes ready-to-use with an advanced sensor suite.
