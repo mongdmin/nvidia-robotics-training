@@ -7,6 +7,7 @@ focusing on Physical AI, simulation, and robot learning.
 - Robotics Foundations (USD, Physical AI)
 - Isaac Sim (Simulation & Synthetic Data)
   - [Chapter 01: Building Your First Robot](./02_isaac_sim/01_building_your_first_robot/)
+  - [Chapter 02: Ingesting Robot Assets and Simulating Your Robot](./02_isaac_sim/02_Assets_and_simulating/)
 - Isaac Lab (Robot Learning & RL)
 - Isaac ROS (ROS2 & Deployment)
 
